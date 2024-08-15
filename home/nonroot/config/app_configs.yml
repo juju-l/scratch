@@ -1,0 +1,4 @@
+
+dbconnstr: "icsCloud.wx"
+auth_code2session: "https://api.weixin.qq.com/sns/jscode2session?appid=wxe0000000000000vx&secret=00000000000000000000000000000000&js_code=%s&grant_type=authorization_code"
+etcd: "127.0.0.1:2379"
